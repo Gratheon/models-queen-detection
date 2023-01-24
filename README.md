@@ -92,7 +92,7 @@ This operation will generates two *model files*: `svm.csv` and `pca.csv`.
 
 The objective of this operation is to test the prediction capability of the generated model by feeing it with an input image.
 
-The command to use consists in: `python run.py -r -i "dataset/queen/002.png"`
+The command to use consists in: `python run.py -r -i "dataset/queen/002.jpg"`
 
 ![capture_testing_model](images/capture_02.png)
 
